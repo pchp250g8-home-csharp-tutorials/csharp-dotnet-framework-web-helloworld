@@ -4,7 +4,6 @@ A web page with the name of the file "index.html" consists of the following part
   1. Page title with "Start Page" value.
   2. The title of the body of the first level page (total 6) with the value of "Hello, World".
 
-
 HelloWorld. Занятия по C#. ASP.Net Веб Приложение. Простая HTML Страница.
 Веб приложение состоит из стартовой страницы с именем файла "index.html".
 Веб страница с именем файла "index.html" состоит из следующих частей (элементов):
